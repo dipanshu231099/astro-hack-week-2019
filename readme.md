@@ -10,17 +10,17 @@ TO CREATE A MASS:
 	
 	3.The direction will be final pt- initial pt.
 
-TO SET THE MASS TO ADD:
+TO SET THE MAGNITUDE OF MASS:
 
 	1.currently you can set the bar by clicking on it.
 	
-	2.lower the bar to increase the mass as much as you want
+	2.drag down the slider given on left to increase the mass as much as you want
 
-COLLSIONS:
+COLLISIONS:
 
 	1. maintain the momentum
 	
-	2. increases the mass of the object
+	2. increase the mass of the object
 
 DEPENDENCIES:
 
@@ -33,6 +33,6 @@ HAVE FUN...
 AUTHORS:
 
 	1. Dipanshu
-	2. Siddarth Mittal
+	2. Siddharth Mittal
 	3. Nishita
 	4. Arshita Kalra
